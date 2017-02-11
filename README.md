@@ -17,7 +17,7 @@ If you just want to use the program, either open the .mxf files in Max or downlo
 ## Configuration
 
 <ol>
-<li>Install the <a href="http://hexler.net/software/touchosc:overline">TouchOSC Editor</a></li>
+<li>Install the <a href="http://hexler.net/software/touchosc">TouchOSC Editor</a></li>
 </ol>
 
 
