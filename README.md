@@ -11,7 +11,7 @@ If you're new to GitHub, welcome! You can download the entire repository as a .z
 
 If you want to open and edit the Max patch itself, you'll need to download the aka.keyboard object, which you can find at the link above. You'll also need to download Max 7, if you haven't already (PLEASE NOTE: if you would like to open this file in Max, you <em>don't</em> have to buy the software. Max can be downloaded for free and can open any patch without requiring you to buy a license).
 
-If you just want to use the program, either open the .mxf files in Max or <a href="https://www.dropbox.com/s/412o4uv9s8966w7/pres2.12.17.zip?dl=0">download the .app</a>. Windows .exe files are currently not supported :(
+If you just want to use the program, either open the .mxf files in Max or <a href="https://www.dropbox.com/s/412o4uv9s8966w7/pres2.12.17.zip?dl=0" target="_blank">download the .app</a>. Windows .exe files are currently not supported :(
 <br>
 ### Configuration
 
