@@ -20,10 +20,14 @@ If you just want to use the program, either open the .mxf files in Max or <a hre
 <li>Install the TouchOSC app on the mobile device you'd like to use. Sorry that it's not free! However, it is cheaper than any clicker you could buy. It's a great, tremendously flexible piece of software and an even greater excuse to get into the world of electronic music, MIDI and OSC!</li>
 <li>Open the pres.touchosc file with the TouchOSC Editor. In the top right corner of the editor window, click "Sync". Make sure your computer and iOS or Android device are connected to the same wifi network.</li>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <li>In the TouchOSC app on your device, touch “Layout > Add”: your computer’s IP address may appear (both devices must be on the same wifi network) or you may have to enter it manually using “Edit > +”</li>
 <li>Once you have entered the IP address, touch it, and the “pres” layout open in the editor should synchronize onto your device.</li>
 <li>Under “Connections” touch “OSC”. Make sure that “Host” shows your computer’s IP Address, the outgoing port is 8000, and the incoming port is 9000.</li>
 <li>Leave the app or patch running in the background while you present. That's all there is to it!</li>
+=======
+<li></li>
+>>>>>>> origin/master
 =======
 <li></li>
 >>>>>>> origin/master
