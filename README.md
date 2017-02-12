@@ -19,4 +19,5 @@ If you just want to use the program, either open the .mxf files in Max or downlo
 <li>Install the <a href="http://hexler.net/software/touchosc">TouchOSC Editor</a></li>
 <li>Install the TouchOSC app on the mobile device you'd like to use. Sorry that it's not free! However, it is cheaper than any clicker you could buy. It's a great, tremendously flexible piece of software and an even greater excuse to get into the world of electronic music, MIDI and OSC!</li>
 <li>Open the pres.touchosc file with the TouchOSC Editor. In the top right corner of the editor window, click "Sync". Make sure your computer and iOS or Android device are connected to the same wifi network.</li>
+<li></li>
 </ol>
