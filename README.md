@@ -25,10 +25,4 @@ If you just want to use the program, either open the .mxf files in Max or <a hre
 <li>Once you have entered the IP address, touch it, and the “pres” layout open in the editor should synchronize onto your device.</li>
 <li>Under “Connections” touch “OSC”. Make sure that “Host” shows your computer’s IP Address, the outgoing port is 8000, and the incoming port is 9000.</li>
 <li>Leave the app or patch running in the background while you present. That's all there is to it!</li>
-=======
-<li></li>
->>>>>>> origin/master
-=======
-<li></li>
->>>>>>> origin/master
 </ol>
